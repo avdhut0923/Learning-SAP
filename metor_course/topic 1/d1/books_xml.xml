@@ -1,0 +1,34 @@
+<bookStore>
+	<book category="spirutulity">
+		<title lang="sanskrit">sarth ramayan</title>
+		<author>sage walmiki</author>
+
+		<year>BCE 7th century </year>
+		<price>450</price>
+	</book>
+	<book category="science">
+		<title lang="en">Wings of Fire</title>
+		<author>A. P. J. Abdul Kalam</author>
+		<year>1999</year>
+		<price>500.00</price>
+	</book>
+	<book category="physics">
+		<title lang="en">The Scientific Edge</title>
+		<author>C. V. Raman</author>
+		<author>Jagadish Chandra Bose</author>
+		<year>1930</year>
+		<price>400.00</price>
+	</book>
+	<book category="sangit">
+		<title lang="hindi">Raga Mala</title>
+		<author>Pt. Bhimsen Joshi</author>
+		<year>2001</year>
+		<price>350.00</price>
+	</book>
+	<book category="technology">
+		<title lang="en">AI for India</title>
+		<author>Sundar Pichai</author>
+		<year>2022</year>
+		<price>750.00</price>
+	</book>
+</bookStore>

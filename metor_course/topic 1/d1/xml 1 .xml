@@ -1,0 +1,26 @@
+<xmlDoc>
+	<treeType>
+		<tree>neem</tree>
+		<fruit>neem beed</fruit>
+		<region>all india</region>
+		<taste>bitter</taste>
+	</treeType>
+	<treeType>
+		<tree>banyan</tree>
+		<fruit>no</fruit>
+		<region>all india</region>
+		<taste>nil</taste>
+	</treeType>
+	<treeType>
+		<tree>mango</tree>
+		<fruit>mango</fruit>
+		<region>kokan</region>
+		<taste>sweet</taste>
+	</treeType>
+	<treeType>
+		<tree>orange</tree>
+		<fruit>orange</fruit>
+		<region>nagpur</region>
+		<taste>sweet and sour</taste>
+	</treeType>
+</xmlDoc>
